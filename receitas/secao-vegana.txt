@@ -1,0 +1,17 @@
+# 🌱 Secção de Receitas Veganas
+
+Bem-vindos à nova secção exclusiva para receitas veganas do nosso repositório! 
+
+O objetivo deste espaço é reunir alternativas 100% vegetais, saudáveis e fáceis de preparar, permitindo que a nossa página colaborativa seja mais inclusiva.
+
+## 💡 Discussão e Ideias de Receitas
+Quaisquer sugestões podem ser adicionadas aqui. De momento, temos as seguintes ideias para desenvolver:
+- [ ] Hambúrguer de Grão-de-Bico
+- [ ] Bolo de Chocolate (sem ovo e sem leite)
+- [ ] Tofu à Brás
+
+## 🧑‍🍳 Como Contribuir
+Se quiseres adicionar uma receita vegana:
+1. Cria um ficheiro novo seguindo o padrão `receita-nome.md`.
+2. Faz um Pull Request com a tua receita.
+3. Adiciona um link para o teu ficheiro aqui nesta lista!
