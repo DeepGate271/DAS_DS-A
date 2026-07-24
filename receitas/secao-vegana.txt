@@ -9,9 +9,3 @@ Quaisquer sugestões podem ser adicionadas aqui. De momento, temos as seguintes 
 - [ ] Hambúrguer de Grão-de-Bico
 - [ ] Bolo de Chocolate (sem ovo e sem leite)
 - [ ] Tofu à Brás
-
-## 🧑‍🍳 Como Contribuir
-Se quiseres adicionar uma receita vegana:
-1. Cria um ficheiro novo seguindo o padrão `receita-nome.md`.
-2. Faz um Pull Request com a tua receita.
-3. Adiciona um link para o teu ficheiro aqui nesta lista!
