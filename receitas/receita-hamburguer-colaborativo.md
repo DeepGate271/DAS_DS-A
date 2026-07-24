@@ -1,10 +1,11 @@
 # Hambúrguer Caseiro Colaborativo
 
 ## Ingredientes
-- Pão de hambúrguer com sementes
-- 150g de carne picada de vaca
-- Queijo, alface, tomate, pickles e cebola picada 
-- Molho big mac
+- Pão de hambúrguer
+- 150g de carne picada
+- ovo estrelado
+- Queijo, alface e tomate, cenoura e cebola
+- Ketchup, maionese, molho especial
 
 ## Modo de Preparo
 
