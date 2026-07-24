@@ -3,10 +3,14 @@
 ## Ingredientes
 - Pão de hambúrguer
 - 150g de carne picada
-- Queijo, alface e tomate
-- Molhos a gosto
+- ovo estrelado
+- Queijo, alface e tomate, cenoura e cebola
+- Ketchup, maionese, molho especial
 
 ## Modo de Preparo
 
 1. **Passo 1 (Alexandre):** Temperar a carne picada com sal e pimenta e moldar em formato de hambúrguer.
-2. <!-- COLEGA 2 E COLEGA 3: ESCREVAM O VOSSO PASSO NESTA EXATA LINHA PARA GERAR O CONFLITO -->
+2.  colocar o hambuguer para fritar.
+    fazer o ovo estrelado.
+    montar o hambuguer.
+    comer.
